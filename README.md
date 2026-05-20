@@ -46,17 +46,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
 ---
 
-## Тестовые артефакты
+## 🧪 Тестовые артефакты
 
-* [Тестирование интернет магазина](https://github.com/dmatyash/online_store_testing/blob/main/README.md)
+* 🛒 [Тестирование интернет-магазина](https://github.com/dmatyash/online_store_testing/blob/main/README.md)
 
+* 📱 [Тестирование мобильного приложения](https://github.com/dmatyash/mobile_app_testihg)
 
-<!-- ### 💻 Пройденные курсы:
+* 🔐 [Работа с Charles Proxy](https://github.com/dmatyash/charles-proxy)
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
